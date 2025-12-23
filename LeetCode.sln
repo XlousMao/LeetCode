@@ -167,6 +167,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "I最长单调递增子序�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "J库房问题3", "J库房问题3\J库房问题3.vcxproj", "{3D877B13-FF1D-4F00-8C7B-6DEDE93AE1D4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{9FA3D6BD-1EC1-3BA5-80CB-CE02773A58D5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
