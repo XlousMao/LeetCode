@@ -1,0 +1,14 @@
+# Visual Studio 临时文件和构建输出
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.pdb
+*.user
+*.suo
+*.sln.docstates
+# 即使有其他的构建目录也可以忽略
+bin/
+obj/
