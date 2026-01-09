@@ -1,4 +1,4 @@
-﻿/*
+/*
 题目描述
 设计一个实验，实现下述算法。
 算法 BinarySearch(T， x)
@@ -34,7 +34,7 @@ using namespace std;
 
 int BinarySearch(vector<int>& T, int x, int left, int right)
 {
-	int mid;
+	int mid=0;
 	if (left < right)
 	{
 		mid = (left + right) / 2;
