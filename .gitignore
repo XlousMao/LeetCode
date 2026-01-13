@@ -1,5 +1,6 @@
 # Visual Studio 临时文件和构建输出
 .vs/
+.vscode/
 [Dd]ebug/
 [Rr]elease/
 x64/
